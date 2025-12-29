@@ -1,0 +1,13 @@
+{
+    "emails": {
+        "total_emails": 0,
+        "unique_emails": []
+    },
+    "phone_numbers": [],
+    "urls": {
+        "total_urls": 0,
+        "domains": {}
+    },
+    "dates": [],
+    "currency": []
+}
